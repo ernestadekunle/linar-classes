@@ -12,7 +12,7 @@ def todays_date_time1():
     return sliced_date
 
 date_of_the_month= todays_date_time1()
-
+#Texting Github
  #this function detetmines the the current year by converting  the date 
  # into a string and slicing the year out using string indexing    
 def todays_date_time2():
