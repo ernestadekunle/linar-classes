@@ -1,0 +1,17 @@
+print(5==5 and 4<7)
+print(18==18 and 5<16)
+print(45>5 and 4<=7)
+print(5==6 and 4>7)
+print(5==5 and 4<7)
+#or 
+print(5==5 or 4<7)
+print(18==18 or 5<16)
+print(45>5 or 4<=7)
+print(5==6 or 4>7)
+print(5==5 or 4<7)
+
+print(not 5==5)
+print(not 5>10)
+print (not 2!=5)
+print(not 5>=22)
+print(not 55<=3)

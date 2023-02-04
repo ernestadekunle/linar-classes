@@ -1,0 +1,6 @@
+a= range(100)
+b= range(1,100)
+c= range(1,100,2)
+print(a)
+print(b)
+print(c)
